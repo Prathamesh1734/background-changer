@@ -6,4 +6,4 @@ It has the following features-
 
 - Changes color when clicked on button
 
-![Local Image](Homepage.png)
+![Local Image](images/homepage.png)
