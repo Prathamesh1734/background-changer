@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function BackgroundChanger() {
   const [backgroundColor, setBackgroundColor] = useState("#242424");
-  const [showMessage, setShowMessage] = useState(false);
+  const [showMessage, setShowMessage] = useState(true);
 
   const handleColorChange = (color) => {
     document.body.style.backgroundColor = color;
